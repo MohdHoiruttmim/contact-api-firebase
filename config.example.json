@@ -1,0 +1,15 @@
+// tou can find this file in your firebase project settings under service accounts
+
+{
+  "type": "service_account",
+  "project_id": "syi-api-3f1e7",
+  "private_key_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "private_key": "-----BEGIN PRIVATE KEY-----\ndjasdhajdhajhdajdhjahsdjahjkdhajhjhqwhjhjhasjhdjhajsdhjahsdjhajsdhjahhjhjahsdjhajdhajhdkahdjhadhjahsjdhjahsdjhajdhjahwuhuhweuqgfygahdgahjsdghjagdhagsdhjagdgajdgjadghjagdhajdhahdkjakhdjkahjhajkdhjhjhhajshdasdh-----END PRIVATE KEY-----\n",
+  "client_email": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.gserviceaccount.com",
+  "client_id": "111111111111111111111111111111111",
+  "auth_uri": "kasdjadjakjdkjwjeksdjkjdkjajsdkajdsk",
+  "token_uri": "iiweqeiqdfhdhasdadhahdahdgqweiuoasid",
+  "auth_provider_x509_cert_url": "jashdjhqwuihusdhfjsdhahdjhajdjkashdj",
+  "client_x509_cert_url": "hasgdhaghdgagdhgasdhghagdgahdgwegiuweydasuhdhadhjahdj",
+  "universe_domain": "googleapis.com"
+}
